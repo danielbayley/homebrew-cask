@@ -1,6 +1,6 @@
 cask 'lastpass' do
-  version '4.33.5'
-  sha256 'ab4f444472cc6afc47e7177e0abf07f4d728c75793e5cc11f64406f0c951956d'
+  version '4.36.0'
+  sha256 'cf9fa68e6596904732960a67521b79dd8f9bc95f920af9c9425886fbe23741ce'
 
   url 'https://download.cloud.lastpass.com/mac/LastPass.dmg'
   appcast 'https://download.cloud.lastpass.com/mac/AppCast.xml'

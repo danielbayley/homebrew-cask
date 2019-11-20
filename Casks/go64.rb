@@ -1,7 +1,7 @@
 cask 'go64' do
   # note: "64" is not a version number, but an intrinsic part of the product name
-  version '1.0.5'
-  sha256 '6cb2e323e9d5d9af63e74fc8754240527180d1b2ac501571913b13b9e728d5eb'
+  version '1.0.6'
+  sha256 'f4cd0f5790db222334276260437d3412751bd32a9a5c6bfc5bffad6e259d7d7e'
 
   url "https://www.stclairsoft.com/download/Go64-#{version}.zip"
   appcast 'https://www.stclairsoft.com/cgi-bin/sparkle.cgi?GO'
